@@ -1,3 +1,9 @@
+Group-7 Lab 3 Exercise
+
+|Name       | Email                          |
+|___________|________________________________|
+|Lakshmikar | lakshmikarpolamreddy@gmail.com |
+|____________________________________________|
 
 # Lab #3: Develop Code Repository and Push Commits 
 
