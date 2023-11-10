@@ -1,9 +1,10 @@
-Group-7 Lab 3 Exercise
+Group-1 Lab 3 Exercise
 
-|Name       | Email                          |
-|___________|________________________________|
-|Lakshmikar | lakshmikarpolamreddy@gmail.com |
-|____________________________________________|
+| Name            | Email                  |
+|-----------------|------------------------|
+| Gagan Preet Singh | link.gagan92@gmail.com |
+| Karina Thapa    | kthapa@mail.yu.edu     |
+| Rahul           | rpangaan@mail.yu.edu   |
 
 # Lab #3: Develop Code Repository and Push Commits 
 
